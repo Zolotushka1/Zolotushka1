@@ -8,8 +8,8 @@
 - :email: xca0@yandex.ru
 - :jack_o_lantern: Make games, lead a team, write to me!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zolotushka1&hide_progress=true&theme=radical)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zolotushka1&hide_progress=true&theme=radical" alt="Zolotushka1" /></p>
+<p>&nbsp;<img align="center" src="https://readme-jokes.vercel.app/api" /></p>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZoloManya)
 [![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/vinogradovkavo)
