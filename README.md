@@ -1,16 +1,20 @@
-### Hi there 👋
+![github-header-image](https://github.com/Zolotushka1/EvgeniiZolotarev/assets/104819488/78c187fb-b636-4257-8209-b234e0816388)
 
-<!--
-**Zolotushka1/Zolotushka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- :video_game: Unity Developer
+- :ghost: [Team G. E. R.](https://team-g-e-r.itch.io) team lead
+- :computer: Working on 2d/2.5d/3d games
+- :art: Draw in 2d, rotoscoping!
+- :email: xca0@yandex.ru
+- :jack_o_lantern: Make games, lead a team, write to me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zolotushka1&hide_progress=true&theme=radical)
+
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZoloManya)
+[![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/vinogradovkavo)
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
