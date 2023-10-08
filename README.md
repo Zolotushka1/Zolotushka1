@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/Zolotushka1/EvgeniiZolotarev/assets/104819488/78c187fb-b636-4257-8209-b234e0816388)
+![github-header-image](https://github.com/Zolotushka1/Zolotushka1/blob/main/github-header-image.png)
 
 
 - :video_game: Unity Developer
