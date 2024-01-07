@@ -2,9 +2,9 @@
 
 
 - :video_game: Unity Developer
-- :ghost: [Team G. E. R.](https://team-g-e-r.itch.io) (itch) team lead
+- :ghost: [Team GER](https://team-g-e-r.itch.io) (itch) team lead
 - :computer: Working on 2d/2.5d/3d games
-- :space_invader: [Team G. E. R. git organization](https://github.com/Team-G-E-R) 
+- :space_invader: [Team GER git organization](https://github.com/Team-G-E-R) 
 - :art: Draw in 2d, rotoscoping!
 - :email: xca0@yandex.ru
 - :jack_o_lantern: Make games, lead a team, write to me!
